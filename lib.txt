@@ -1,0 +1,322 @@
+------------------------------
+Ride Along
+2014
+Comedy
+10000
+no
+3
+Michael Dante DiMartino
+100
+Kevin Hart
+------------------------------
+Avatar The Last Airbender
+2005
+Animated Series
+10001
+no
+4
+Michael Dante DiMartino
+20
+4
+------------------------------
+Spiderman
+1990
+SuperHeros
+10002
+no
+2
+Stan Lee
+1
+------------------------------
+Spider-Man
+2002
+Action
+10003
+no
+3
+Sam Raimi
+121
+Tobey Maguire
+------------------------------
+Spider-Man 2
+2004
+Action
+10004
+no
+3
+Sam Raimi
+135
+Tobey Maguire
+------------------------------
+Spider-Man 3
+2007
+Action
+10005
+no
+3
+Sam Raimi
+156
+Tobey Maguire
+------------------------------
+Iron Man
+2008
+Action
+10006
+no
+3
+Jon Favreau
+126
+Robert Downey Jr
+------------------------------
+Harry Potter The Deathly Hallows
+2007
+Fantasy
+10007
+no
+1
+J.K. Rowling
+607
+------------------------------
+WandaVision
+2021
+Action
+10008
+no
+4
+Matt Shakman
+30
+1
+------------------------------
+Hulk
+1993
+SuperHeros
+10009
+aarin06
+2
+Stan Lee
+23
+------------------------------
+The Lost Hero
+2010
+Fiction
+10010
+no
+1
+Rick Riordan
+553
+------------------------------
+Miss Bala
+2019
+Action
+10011
+no
+3
+Catherine Hardwicke
+104
+Gina Rodriguez
+------------------------------
+Grey's Anatomy
+2005
+Drama
+10012
+no
+4
+Julie Anne Robinson
+45
+17
+------------------------------
+Modern Family
+2009
+Sitcom
+10013
+no
+4
+Steven Levitan
+25
+11
+------------------------------
+The 5th Wave
+2016
+Sci-Fi
+10014
+no
+3
+J Blakeson
+117
+Chloe Grace Moretz
+------------------------------
+Jurassic World
+2015
+Adventure
+10015
+no
+3
+Colin Trevorrow
+124
+Chris Pratt
+------------------------------
+The White Tiger
+2021
+Crime
+10016
+no
+3
+Rahmin Bahrani
+125
+Priyanka Chopra
+------------------------------
+How to Get Away with Murder
+2014
+Drama
+10017
+no
+4
+Peter Nowalk
+40
+6
+------------------------------
+Pretty Little Liars
+2010
+Drama
+10018
+no
+4
+Oliver Goldstick
+35
+7
+------------------------------
+Isn't It Romantic
+2019
+Romance
+10019
+no
+3
+Todd Strauss-Schulson
+89
+Rebel Wilson
+------------------------------
+Where She Went
+2010
+Fiction
+10020
+no
+1
+Gayle Forman
+171
+------------------------------
+The Woo Woo
+2018
+Autobiography
+10021
+no
+1
+Lindsay Wong
+239
+------------------------------
+A Simple Favor
+2018
+Mystery 
+10022
+no
+3
+Paul Feig
+119
+Blake Lively
+------------------------------
+Pitch Perfect
+2012
+Comedy
+10023
+no
+3
+Jason Moore
+112
+Anna Kendrick
+------------------------------
+Moon of the Crusted Snow
+2018
+Apocalyptic Fiction
+10024
+no
+1
+Waubgeshig Rice
+236
+------------------------------
+Dead To Me
+2019
+Comedy
+10025
+no
+4
+Will Ferrel
+35
+2
+------------------------------
+No Escape
+2015
+Thriller
+10026
+no
+3
+John Erick Dowdle
+103
+Owen Wilson
+------------------------------
+Batman: The Killing Joker
+1988
+Fantasy
+10027
+no
+2
+Alan Moore
+1
+------------------------------
+Scandal
+2012
+Drama
+10028
+no
+4
+Kerry Washington
+35
+7
+------------------------------
+Avengers: Age of Ultron
+2015
+Action
+10029
+no
+3
+Joss Whedon
+142
+Robert Downey, Jr.
+------------------------------
+The Croods: A New Age
+2020
+Family
+10030
+no
+3
+Joel Crawford
+95
+Emma Stone
+------------------------------
+Frozen
+2013
+Fantasy
+10031
+no
+3
+Chris Buck
+109
+Kristen Bell
+------------------------------
+Avengers: Endgame
+2019
+Action
+10032
+no
+3
+Russo Brothers
+182
+Robert Downey Jr
